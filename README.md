@@ -5,8 +5,10 @@ Simple offline Text to Audio converter in python. Created using pyttsx3 module.
 
 #### Command:  
 
-    **pip install -r requirements.txt**
-    **py Texaud.py**
+    >>pip install -r requirements.txt 
+    >>py Texaud.py
+         or
+    >>python3 Texaud.py
 
 ##### NOTE:
 
