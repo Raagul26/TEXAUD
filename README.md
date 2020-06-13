@@ -10,9 +10,14 @@ Simple offline Text to Audio converter in python. Created using pyttsx3 module.
          or
     >>python3 Texaud.py
 
+#### Supporting platform:
+     Windows
+     Linux
+     Mac os
+     
 ##### NOTE:
 
     THIS PROGRAM IS CREATED ONLY FOR EDUCATIONAL PURPOSE.
     Created using python. If you notice any issue please report to me.
     It works fully offline, no need internet access. So, safe to use. 
-    
+ 
