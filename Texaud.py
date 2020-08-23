@@ -2,7 +2,7 @@ from pyttsx3 import init  # Importing init function from pyttsx3 module
 from os import system, name  # Importing system and name from os module
 
 
-# Clear screen functio
+# Clear screen function
 def clear():
     system('cls' if name == 'nt' else 'clear')
 
